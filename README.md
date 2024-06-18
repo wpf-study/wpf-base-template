@@ -1,0 +1,1 @@
+# wpf-base-template
